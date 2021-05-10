@@ -1,0 +1,46 @@
+body {
+  background: rgba(0, 0, 225, 0.1);
+  background-image: 'C:\Users\mjayamou\Pictures\Saved Pictures\greengrassjpg.jpg';
+  <!--background-color: powderblue; -->
+}
+h1 {
+  padding-top: 0px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  
+}
+img {
+  padding-top: 20px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  float: left;
+ 
+}
+
+div {
+  
+  padding-top: 50px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  padding-left: 00px;
+}
+.second{
+	background-color:rgb(200,200,200)
+}
+.third{
+	font-size:20px;
+	padding:20px;
+	position:absolute;
+	margin-left:100px;
+	margin-bottom:1000px;
+
+}
+
+.fourth{
+padding:20px;
+margin-left:360px;
+	}
+
+	
